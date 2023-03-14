@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #551e53;
+}
+
+.notFoundImg {
+  margin: 50px;
+}
